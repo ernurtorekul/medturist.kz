@@ -1,0 +1,3 @@
+[03-May-2017 13:25:43 Asia/Almaty] PHP Fatal error:  Call to undefined function CheckCurlResponse() in /home/pipestor/medturist.kz/api/account_current.php on line 17
+[03-May-2017 13:26:01 Asia/Almaty] PHP Fatal error:  Call to undefined function CheckCurlResponse() in /home/pipestor/medturist.kz/api/account_current.php on line 17
+[03-May-2017 13:33:40 Asia/Almaty] PHP Fatal error:  Call to undefined function CheckCurlResponse() in /home/pipestor/medturist.kz/api/account_current.php on line 17
