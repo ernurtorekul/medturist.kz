@@ -119,3 +119,18 @@ $(window).scroll(function() {
 	}
 
 });
+
+
+// era custom
+document.querySelectorAll('#scroll-button').forEach(function(button){
+	addEventListener('click', function() {
+		document.getElementById('target-podrobnee').scrollIntoView({ behavior: 'smooth' });
+		history.pushState(null, '', window.location.pathname); 
+	})
+});
+
+window.addEventListener('load', function() {
+	if (window.location.hash) {
+		history.replaceState(null, '', window.location.pathname);
+	}
+});
