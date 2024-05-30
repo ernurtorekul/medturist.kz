@@ -17,15 +17,17 @@
 	<meta name="keywords" content="лечение в индии, мед туризм, медицинский туризм, лечение рака, лечение зрения, подтяжка лица, увеличение груди">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link href="./output.css" rel="stylesheet">
+
 	<link rel="stylesheet" href="css/main.css">
 	
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
+<!-- <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-6428952339805965",
     enable_page_level_ads: true
   });
-</script>
+</script> -->
 
 	<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -920,8 +922,7 @@
 						</div>
 						<article>
 							Часть Аполло Хоспитал групп, более 50 медицинских и хирургических дисциплин. АккредитованСовместной Международной Комиссией США.
-Предлагает самые современные клинические услуги в кардиологии, онкологии, неврологии, нефрологии, ортопедии, урологии, трансплантации, гинекологии, педиатрии, косметических операциях, экстренной помощи.
-
+							Предлагает самые современные клинические услуги в кардиологии, онкологии, неврологии, нефрологии, ортопедии, урологии, трансплантации, гинекологии, педиатрии, косметических операциях, экстренной помощи.
 						</article>
 					</div>
 
@@ -933,9 +934,8 @@
 						</div>
 						<article>
 							В Нойде, вблизи Дели. Входит в сеть медицинских госпиталей Fortis Healthcare представленную во многих странах Азии.
-Имеет собственную сеть кардиоцентров.
-Является центром повышения квалификации в ортопедии, неврологии, онкологии,   в экстракорпоральном оплодотворении, хирургии с минимальным вмешательством. Ведущие направления – кардиологическая хирургия с минимальным вмешательством и онкология.
-
+							Имеет собственную сеть кардиоцентров.
+							Является центром повышения квалификации в ортопедии, неврологии, онкологии,   в экстракорпоральном оплодотворении, хирургии с минимальным вмешательством. Ведущие направления – кардиологическая хирургия с минимальным вмешательством и онкология.
 						</article>
 					</div>
 
@@ -947,8 +947,7 @@
 						</div>
 						<article>
 							10 госпиталей и 2 мед. центра. Более 2100 ведущих докторов в сферах кардиологии и сердечных операций, неврологии, ортопедии и артропластики (операция по замене сустава). 
-Лечение рака, операции спинного мозга, хирургия с минимальным вмешательством, метаболическая и бариатрическая хирургия, эстетическая и реконструктивная хирургии, урология и трансплантация почек, кохлеарная трансплантация, ЛОР, педиатрия, акушерство и гинекология, включая ЭКО, реанимация, реабилитационные услуги и все вспомогательные специальности
-
+							Лечение рака, операции спинного мозга, хирургия с минимальным вмешательством, метаболическая и бариатрическая хирургия, эстетическая и реконструктивная хирургии, урология и трансплантация почек, кохлеарная трансплантация, ЛОР, педиатрия, акушерство и гинекология, включая ЭКО, реанимация, реабилитационные услуги и все вспомогательные специальности
 						</article>
 					</div>
 
@@ -960,9 +959,8 @@
 						</div>
 						<article>
 						– Один из крупнейших в Индии специализированных институтов, где ведется не только лечение, но и научные исследования, внедрение новейших технологий. Клинический центр с палатами на 1250 пациентов
-Ведущие направления: 
-онкология, хирургия , кардиология и кардиохирургия
-
+						Ведущие направления: 
+						онкология, хирургия , кардиология и кардиохирургия
 						</article>
 					</div>
 
@@ -974,16 +972,15 @@
 						</div>
 						<article>
 							В составе Джайпи Групп расположен в Нойде.  Отделения больницы:
-Ухо- горло- нос
-Нейробиология (мозг и позвоночник)
-Мать и ребенок
-Офтальмология
-Кости и суставы
-Пластическая и восстановительная хирургия
-Пересадка печени
-Хирургический мини-доступ
-Институт сердца
-
+							Ухо- горло- нос
+							Нейробиология (мозг и позвоночник)
+							Мать и ребенок
+							Офтальмология
+							Кости и суставы
+							Пластическая и восстановительная хирургия
+							Пересадка печени
+							Хирургический мини-доступ
+							Институт сердца
 						</article>
 					</div>
 
@@ -1029,6 +1026,72 @@
 				</div>
 			</section>
 		</div>
+
+		<section >
+			<h1 class="ozdorov_products_h2 text-3xl font-bold text-center md:text-5xl">Оздоровительные продукты</h1>
+			<div class="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-3 gap-5 ozdorov_products">
+				<div class="mb-15 md:mb-20 sm:mb-20 xs:flex xs:justify-center m-auto">
+					<div class="products_block md:w-full sm:w-full w-3/4">
+						<div class="products_block_img_bg">
+							<div class="products_img">
+								<img src="./img/dariler/bevon.png" alt="">
+							</div>
+						</div>
+						<div class="products_block_content">
+							<h3 class="font-bold mb-1.5 text-xl">Bevon Suspension</h3>
+							<article>
+								<p class="mb-2 text-sm">Bevon suspension поливитаминная и минеральная добавка для общего поддержания здоровья. <a href="#dari_modal" class="fancybox custom_hover_link"> Узнать больше..</a></p>
+							</article>
+							<!-- <div class="products_price mb-1.5">
+								<p class="font-bold text-2xl custom_color mr-2">6000 тг</p>
+								<p class=""><s>7200 тг</s></p>
+							</div> -->
+							<button class="custom_button">Подробнее</button>
+						</div>
+					</div>
+				</div>
+				<div class="mb-15 md:mb-20 sm:mb-20 xs:flex xs:justify-center m-auto">
+					<div class="products_block md:w-full sm:w-full w-3/4">
+						<div class="products_block_img_bg">
+							<div class="products_img">
+								<img src="./img/dariler/coralium.png" alt="">
+							</div>
+						</div>
+						<div class="products_block_content">
+							<h3 class="font-bold mb-1.5 text-xl">Coralium-D3 Tablet</h3>
+							<article>
+								<p class="mb-2">Таблетка Coralium-D3 кальций и витамин D3 для поддержания здоровья костей и нервной системы. <a href="#dari_modal2" class="fancybox custom_hover_link">  Узнать больше..</a></p>
+							</article>
+							<!-- <div class="products_price mb-1.5">
+								<p class="font-bold text-2xl custom_color mr-2">6000 тг</p>
+								<p class=""><s>7200 тг</s></p>
+							</div> -->
+							<button class="custom_button">Подробнее</button>
+						</div>
+					</div>
+				</div>
+				<div class="mb-20 md:mb-20 sm:mb-20 xs:flex xs:justify-center m-auto">
+					<div class="products_block  md:w-full sm:w-full w-3/4">
+						<div class="products_block_img_bg">
+							<div class="products_img">
+								<img src="./img/dariler/tata.png" alt="">
+							</div>
+						</div>
+						<div class="products_block_content">
+							<h3 class="font-bold mb-1.5 text-xl">Tata Salmon Omega 3 Fish Oil </h3>
+							<article>
+								<p class="mb-2">Капсула с рыбьим жиром Tata Омега-3 из лосося для здоровья сердца и борьбы с воспалениями. <a href="#dari_modal3" class="fancybox custom_hover_link"> Узнать больше..</a></p>
+							</article>
+							<!-- <div class="products_price mb-1.5">
+								<p class="font-bold text-2xl custom_color mr-2">6000 тг</p>
+								<p class=""><s>7200 тг</s></p>
+							</div> -->
+							<button class="custom_button">Подробнее</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		
 		<div class="form_block wow fadeIn group">
 			<section>
@@ -1107,66 +1170,67 @@
 				<div class="list">
 					<div class="item wow fadeInUp">
 						<div class="head_review">
-							<div class="img"><img src="img/r1.jpg" alt=""></div>
+							<div class="img"><img src="img/r11.png" alt=""></div>
 							<div class="desc">
-								<div class="woman">Бибигуль Мергеновна,</div>
-								<p>Астана</p>
+								<div class="woman">Клара</div>
+								<p>Казахстан / Астана</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<article>
 							<p>
-								Моя дочь с 14 лет страдала астмой, состояние ее с возрастом только ухудшалось. Приступы стали сильнее и чаще. Мы взяли в институте академ и поехали в Индию, нам посоветовали родственники, которые туда возили бабушку делать операцию на суставе ... <a href="#review_modal" class="fancybox">Читать дальше</a>
+								Меня зовут Клара. Я приехала в Индию со своей дочерью, у которой в течение 1,5 лет случались внезапные приступы. После безуспешного лечения в Алматы, Астане и Самарканде мы обратились к Med Turist Deva ... <a href="#review_modal" class="fancybox">Читать дальше</a>
 							</p>
 						</article>
 					</div>
 
 					<div class="item wow fadeInUp">
 						<div class="head_review">
-							<div class="img"><img src="img/r2.jpg" alt=""></div>
+							<div class="img"><img src="img/r22.png" alt=""></div>
 							<div class="desc">
-								<div class="woman">Андрей</div>
+								<div class="woman">Зоя</div>
+								<p>Узбекистан / Конырат</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<article>
 							<p>
-								Я обследовался, а потом и делал операцию в Институте Меданта (рак простаты). Почему поехал? Надоело ждать очереди на квоту, платить в онкоцентре всем подряд, да и лечить уже особо не хотели, случай, сказали,  запущенный, хотя каждый год ...  <a href="#review_modal2" class="fancybox">Читать дальше</a>
+								Меня зовут Зоя, и я из Узбекистана. С 2014 года я лечусь с кистой яичника. Подруга порекомендовала мне компанию "Медтурист Дева", услышав об успешном лечении в Индии. С того момента, как я обратилась к ним, они позаботились обо всем. После ... <a href="#review_modal2" class="fancybox">Читать дальше</a>
 							</p>
 						</article>
 					</div>
 
 					<div class="item wow fadeInDown">
 						<div class="head_review">
-							<div class="img"><img src="img/r3.jpg" alt=""></div>
+							<div class="img"><img src="img/r33.png" alt=""></div>
 							<div class="desc">
-								<div class="woman">Вера Ивановна К., </div>
-								<p>Алматы</p>
+								<div class="woman">Айнур </div>
+								<p>Казахстан / Алматы</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<article>
 							<p>
-								У мужа была серьезная авария, долго думали, сказали, что поможет дискэктомия с функциональной стабилизацией искусственным межпозвонковым диском, то есть эндопротез межпозвонкового диска. Записали его на операцию через 5 месяцев, а ему ... <a href="#review_modal3" class="fancybox">Читать дальше</a>
+								Я обратилась в эту компанию для своего 3-летнего ребенка.С самого рождения у него было серьезное заболевание кожи, из-за которого он не мог стоять. Мы обратились за лечением в Индию из-за ... <a href="#review_modal3" class="fancybox">Читать дальше</a>
 							</p>
 						</article>
 					</div>
 
 					<div class="item wow fadeInDown">
 						<div class="head_review">
-							<div class="img"><img src="img/r4.jpg" alt=""></div>
+							<div class="img"><img src="img/r44.png" alt=""></div>
 							<div class="desc">
 								<div class="woman">Айнагуль</div>
+								<p>Казахстан</p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
 						<article>
 							<p>
-								Я счастлива! В аюрведической клинике я наконец смогла сбросить первые 14 кг, а потом с их препаратами еще 18 дома! Давно надо было ехать! Не тяните, это не дорого – как отпуск где-нибудь в Европе, те же деньги!
+								Когда я пришел в MedTurist Deva, Рамазан и Райан Бей оказали мне огромную помощь. После диагностики моего состояния врачи рекомендовали пересадку печени, которая в конечном итоге спасла мне жизнь ...<a href="#review_modal4" class="fancybox">Читать дальше</a>
 							</p>
 						</article>
 					</div>
-
 				</div>
 			</section>
 		</div>
@@ -1270,31 +1334,113 @@
 				<p>Попробуйте еще раз</p>
 			</div>
 
+			<div class="modal review" id="dari_modal">
+				<h3>Bevon suspension</h3>
+				<div class="flex justify-center items-center">
+					<div class="products_block_img_bg">
+						<div class="products_img">
+							<img src="./img/dariler/bevon.png" alt="">
+						</div>
+					</div>
+				</div>
+				<article>
+					Bevon suspension | Мультивитаминная и мультиминеральная добавка - это диетическая добавка, обогащенная минералами, поливитаминами и антиоксидантами, которые помогают удовлетворить потребности в питательных веществах и поддерживать оптимальное здоровье. Витамины и минералы, содержащиеся в этом сиропе, пополняют запасы питательных веществ в организме, что способствует правильному функционированию сердца, кишечника и нервной системы. Благодаря наличию в этом сиропе природных антиоксидантов, он борется со стрессом, переутомлением, слабостью и истощением, замедляет дегенеративные процессы старения и повышает сопротивляемость организма инфекциям.
+				</article>
+			</div>
+
+			<div class="modal review" id="dari_modal2">
+				<h3>Coralium-D3 Tablet</h3>
+				<div class="flex justify-center items-center">
+					<div class="products_block_img_bg">
+						<div class="products_img">
+							<img src="./img/dariler/coralium.png" alt="">
+						</div>
+					</div>
+				</div>
+				<article>
+					Таблетки Coralium-D3 | кальциевая добавка содержат сбалансированное сочетание карбоната кальция и витамина D3. Кальций необходим для нормального функционирования нервов, клеток, мышц и костей. При недостатке кальция в крови организм будет забирать кальций из костей, что приведет к их ослаблению. Витамин D3 помогает организму усваивать кальций и фосфор и способствует здоровью костей.
+				</article>
+			</div>
+
+			<div class="modal review" id="dari_modal3">
+				<h3>Tata Salmon Omega 3 Fish Oil</h3>
+				<div class="flex justify-center items-center">
+					<div class="products_block_img_bg">
+						<div class="products_img">
+							<img src="./img/dariler/tata.png" alt="">
+						</div>
+					</div>
+				</div>
+				<article>
+					Капсула с рыбьим жиром Tata 1 мг лосося Омега 3 Омега 3-6-9 - это пищевая добавка, которая укрепляет здоровье сердца. В ее состав входит лососевый жир, богатый источник омега-3 жирных кислот, таких как DHA и EPA, которые поддерживают общее питание. Омега-3 жирные кислоты могут подавлять воспалительную реакцию вашего организма и могут помочь справиться с симптомами, связанными с определенными воспалительными состояниями.
+				</article>
+			</div>
+
 
 			<div class="modal review" id="review_modal">
-				<h3>Бибигуль Мергеновна,</h3>
-				<p>Астана!</p>
+				<h3>Клара</h3>
+				<div class="flex justify-center items-center">
+					<iframe src="https://www.youtube.com/embed/NxgqkuH87_w?si=l_WHs6qOgWizbgI3" 
+						title="YouTube video player" 
+						frameborder="0" 
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+						referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+						class="w-full max-w-lg aspect-video"
+					></iframe>
+				</div>
 				<article>
-					Я обследовался, а потом и делал операцию в Институте Меданта (рак простаты). Почему поехал? Надоело ждать очереди на квоту, платить в онкоцентре всем подряд, да и лечить уже особо не хотели, случай, сказали,  запущенный, хотя каждый год
+					Меня зовут Клара. Я приехала в Индию со своей дочерью, у которой в течение 1,5 лет случались внезапные приступы. После безуспешного лечения в Алматы, Астане и Самарканде мы обратились к Med Turist Deva. В Индии врачи диагностировали ее состояние всего за два дня и рекомендовали операцию. Благодаря им моя дочь сейчас здорова. Я невероятно благодарна врачам и компании Med Turist Deva.
 				</article>
 			</div>
 
 			<div class="modal review" id="review_modal2">
-				<h3>Андрей</h3>
+				<h3>Зоя</h3>
+				<div class="flex justify-center items-center">
+					<iframe src="https://www.youtube.com/embed/KHPbuHV1yUc?si=WttUw-RcARh0qG1q" 
+						title="YouTube video player" 
+						rameborder="0" 
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+						referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+						class="w-full max-w-lg aspect-video"
+					></iframe>
+				</div>
 				<article>
-					Моя дочь с 14 лет страдала астмой, состояние ее с возрастом только ухудшалось. Приступы стали сильнее и чаще. Мы взяли в институте академ и поехали в Индию, нам посоветовали родственники, которые туда возили бабушку делать операцию на суставе
+					Меня зовут Зоя, и я из Узбекистана. С 2014 года я лечусь с кистой яичника. Подруга порекомендовала мне компанию "Медтурист Дева", услышав об успешном лечении в Индии. С того момента, как я обратилась к ним, они позаботились обо всем. После прибытия в Индию они предоставили транспорт и организовали консультации с врачами. Врачи рекомендовали операцию, и я согласился. Сейчас я здоров и очень благодарен моему другу и Med Turist Deva за их предоставленные услуги.
 				</article>
 			</div>
 
 			<div class="modal review" id="review_modal3">
-				<h3>Вера Ивановна К.,</h3>
-				<p>Алматы</p>
+				<h3>Айнур</h3>
+				<div class="flex justify-center items-center">
+					<iframe src="https://www.youtube.com/embed/3XO49vDWnrs?si=AgWYs0LkD31Fw1e_" 
+						title="YouTube video player" 
+						frameborder="0" 
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+						referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+						class="w-full max-w-lg aspect-video"v
+					></iframe>
+				</div>
 				<article>
-					У мужа была серьезная авария, долго думали, сказали, что поможет дискэктомия с функциональной стабилизацией искусственным межпозвонковым диском, то есть эндопротез межпозвонкового диска. Записали его на операцию через 5 месяцев, а ему
+					Я обратилась в эту компанию для своего 3-летнего ребенка.С самого рождения у него было серьезное заболевание кожи, из-за которого он не мог стоять. Мы обратились за лечением в Индию из-за хорошего медицинского обслуживания и доступных цен. Благодаря квалифицированному уходу мой ребенок сейчас чувствует себя хорошо после лечения. Состояние его кожи улучшается, и он плачет гораздо реже, чем раньше. Мы невероятно благодарны доктору и компании Med Tourist Deva за их услуги и поддержку на протяжении всего процесса.
+				</article>
+			</div>
+
+			<div class="modal review" id="review_modal4">
+				<h3>Отзывы</h3>
+				<div class="flex justify-center items-center">
+					<iframe src="https://www.youtube.com/embed/TNUKpo9zX7Y?si=pESKVtz2tWaLlXtR" 
+						title="YouTube video player" 
+						frameborder="0" 
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+						referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+						class="w-full max-w-lg aspect-video"
+					></iframe>
+				</div>
+				<article>
+					Когда я пришел в MedTurist Deva, Рамазан и Райан Бей оказали мне огромную помощь. После диагностики моего состояния врачи рекомендовали пересадку печени, которая в конечном итоге спасла мне жизнь. Я чрезвычайно благодарен. Хирург, доктор Васудеван, был невероятно профессионален, спокойно все мне объяснил. Сейчас я здорова и счастлива, и я настоятельно рекомендую эту услугу всем!
 				</article>
 			</div>
 		</div>
-
 	</div>
 
 	<script src="scripts/all.js"></script>
