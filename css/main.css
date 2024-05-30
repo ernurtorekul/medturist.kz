@@ -22,7 +22,6 @@
 }
 
 .products_block_img_bg{
-    height: 300px;
     background-color: #eef9fc;
     display: flex;
     align-items: center;
@@ -31,8 +30,8 @@
 
 
 .products_img{
-    width: 250px;
-    height: 250px;
+    width: 80%;
+    height: 80%;
     /* background-color: #0176b2; */
 }
 @media screen and (min-width: 480px) {
@@ -41,14 +40,6 @@
         height: auto;
     }
 }
-
-/* @media screen and (max-width: 480px ) {
-    .ozdorov_products{
-        display: block;
-        display: block !important;
-        
-    } 
-} */
 
 .products_block_content{
     margin: 13px;
@@ -93,6 +84,14 @@
     background-image:-webkit-linear-gradient(left,#3294c2 0,#3294c2 100%)
 }
 
+.custom_hover_link{
+    color: #35a0d2;
+    text-decoration: underline;
+}
+
+.custom_hover_link:hover{
+    text-decoration: none;
+}
 
 /* era custom */
 
